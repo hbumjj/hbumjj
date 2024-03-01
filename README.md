@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=MathWorks&logoColor=white"></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>&nbsp  
 </p>
+<hr>
 <h3 align="center">🧪 Interest 🧪</h3>
 <p align="center">
 <a ><img src="https://img.shields.io/badge/ML%2FDL-4E91FF?style=flat-square&logoColor=white"/></a>&nbsp
@@ -18,14 +19,14 @@
 <a ><img src="https://img.shields.io/badge/Uncertainty-FFD700?style=flat-square&logoColor=white"/></a>&nbsp
 <a ><img src="https://img.shields.io/badge/Interpretable%20AI-4CAF50?style=flat-square&logoColor=white"/></a>&nbsp
 </p>
-
+<hr>
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://github.com/hbumjj"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
   <a href="https://scholar.google.co.kr/citations?user=2tdj6OoAAAAJ&hl=ko"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google%20Scholar&logoColor=white"/></a>&nbsp
   <a href="mailto:pbj7698@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
-
+<hr>
 <h3 align="center">📑 Research 📑</h3>
 <a href="https://link.springer.com/article/10.1186/s12911-023-02292-3">🔍 [First author] Bark, Beomjun, Borum Nam, and In Young Kim.** "SelANet: decision-assisting selective sleep apnea detection based on confidence score." *BMC Medical Informatics and Decision Making 23.1 (2023): 190.<br></a>&nbsp
 
