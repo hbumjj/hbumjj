@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=MathWorks&logoColor=white"></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>&nbsp  
 </p>
-<hr>
 <h3 align="center">🧪 Interest 🧪</h3>
 <p align="center">
 <a ><img src="https://img.shields.io/badge/ML%2FDL-4E91FF?style=flat-square&logoColor=white"/></a>&nbsp
@@ -19,7 +18,6 @@
 <a ><img src="https://img.shields.io/badge/Uncertainty-FFD700?style=flat-square&logoColor=white"/></a>&nbsp
 <a ><img src="https://img.shields.io/badge/Interpretable%20AI-4CAF50?style=flat-square&logoColor=white"/></a>&nbsp
 </p>
-<hr>
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://github.com/hbumjj"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
