@@ -27,7 +27,7 @@
 </p>
 
 <h3 align="center">📑 Research 📑</h3>
-<a href="https://link.springer.com/article/10.1186/s12911-023-02292-3">🔍 [First author] Bark, Beomjun, Borum Nam, and In Young Kim.** "SelANet: decision-assisting selective sleep apnea detection based on confidence score." *BMC Medical Informatics and Decision Making 23.1 (2023): 190.<br></a>
+<a href="https://link.springer.com/article/10.1186/s12911-023-02292-3">🔍 [First author] Bark, Beomjun, Borum Nam, and In Young Kim.** "SelANet: decision-assisting selective sleep apnea detection based on confidence score." *BMC Medical Informatics and Decision Making 23.1 (2023): 190.<br></a>&nbsp
 
 <a href="https://link.springer.com/article/10.1186/s12911-024-02437-y">🔍 [co-First author] Nam, B., Bark, B., Lee, J., & Kim, I. Y. (2024). "InsightSleepNet: the interpretable and uncertainty-aware deep learning network for sleep staging using continuous Photoplethysmography." *BMC Medical Informatics and Decision Making, 24(1), 50.<br></a>
 
