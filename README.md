@@ -27,10 +27,10 @@
 </p>
 
 <h3 align="center">📑 Research 📑</h3>
-<a href="https://link.springer.com/article/10.1186/s12911-023-02292-3">🔍 [First author] Bark, Beomjun, Borum Nam, and In Young Kim.** "SelANet: decision-assisting selective sleep apnea detection based on confidence score." *BMC Medical Informatics and Decision Making 23.1 (2023): 190.<br></a>&nbsp
+<a href="https://link.springer.com/article/10.1186/s12911-023-02292-3">🔍 [First author] Bark, Beomjun, Borum Nam, and In Young Kim.** "SelANet: decision-assisting selective sleep apnea detection based on confidence score." *BMC Medical Informatics and Decision Making 23.1 (2023): 190.<br></a>
 
-<a href="https://link.springer.com/article/10.1186/s12911-024-02437-y">🔍 [co-First author] Nam, B., Bark, B., Lee, J., & Kim, I. Y. (2024). "InsightSleepNet: the interpretable and uncertainty-aware deep learning network for sleep staging using continuous Photoplethysmography." *BMC Medical Informatics and Decision Making, 24(1), 50.<br></a>&nbsp
+<a href="https://link.springer.com/article/10.1186/s12911-024-02437-y">🔍 [co-First author] Nam, B., Bark, B., Lee, J., & Kim, I. Y. (2024). "InsightSleepNet: the interpretable and uncertainty-aware deep learning network for sleep staging using continuous Photoplethysmography." *BMC Medical Informatics and Decision Making, 24(1), 50.<br></a>
 
-<a href="https://link.springer.com/article/10.1007/s10489-023-04968-9">🔍 [co-author] Nam, B., Kim, J. Y., Bark, B., Kim, Y., Kim, J., So, S. W., ... & Kim, I. Y. (2023). FacialCueNet: unmasking deception-an interpretable model for criminal interrogation using facial expressions. Applied Intelligence, 53(22), 27413-27427.<br></a>&nbsp
+<a href="https://link.springer.com/article/10.1007/s10489-023-04968-9">🔍 [co-author] Nam, B., Kim, J. Y., Bark, B., Kim, Y., Kim, J., So, S. W., ... & Kim, I. Y. (2023). FacialCueNet: unmasking deception-an interpretable model for criminal interrogation using facial expressions. Applied Intelligence, 53(22), 27413-27427.<br></a>
 
 <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11525776">🔍 [Fisrt author] 박범준, et al. "웨어러블 디바이스에서의 3 축 가속도 센서를 이용한 고 연령층 수면-각성 감지 알고리즘 개발." 한국정보통신학회논문지 27.9 (2023): 1060-1069.</a>
