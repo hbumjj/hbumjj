@@ -24,6 +24,10 @@
   <a href="https://scholar.google.co.kr/citations?user=2tdj6OoAAAAJ&hl=ko"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google%20Scholar&logoColor=white"/></a>&nbsp
   <a href="mailto:pbj7698@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbumjj)](https://github.com/hbumjj)
+[![Beomjun's github stats](https://github-readme-stats.vercel.app/api?username=hbumjj)](https://github.com/hbumjj)
+
 <hr>
 <h3 align="center">📑 Research 📑</h3>
 <a href="https://link.springer.com/article/10.1186/s12911-023-02292-3">🔍 [First author] Bark, Beomjun, Borum Nam, and In Young Kim.** "SelANet: decision-assisting selective sleep apnea detection based on confidence score." *BMC Medical Informatics and Decision Making 23.1 (2023): 190.<br></a>&nbsp
