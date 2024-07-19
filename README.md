@@ -9,7 +9,8 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  I'm a dedicated researcher and developer with a passion for AI and Machine Learning. My work focuses on innovative solutions in sleep analysis, deception detection, and interpretable AI.
+  I'm a dedicated researcher and developer with a passion for AI and Machine Learning. I aim to extract valuable insights from data across diverse industry domains. 
+  My research spans across various fields, focusing on finding meaningful information through data analysis and making decisions based on these insights.
 </p>
 
 <h2 align="center">🛠️ Tech Stack</h2>
