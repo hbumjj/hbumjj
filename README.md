@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/Time%20Series-FF5733?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Uncertainty-FFD700?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Interpretable%20AI-4CAF50?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-9C27B0?style=for-the-badge&logoColor=white"/>
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
