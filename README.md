@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hi!%20I'm%20Beomjun!&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Passionate%20Researcher%20in%20HEALTHCARE%20AI%20and%20Machine%20Learning&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hi!%20I'm%20Beomjun!&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Passionate%20Researcher%20in%20Healthcare%20AI%20and%20Machine%20Learning&descAlignY=51&descAlign=62)
 
 <p align="center">
   <a href="https://github.com/hbumjj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
