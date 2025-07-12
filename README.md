@@ -1,16 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hi!%20I'm%20Beomjun!&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Passionate%20Researcher%20in%20Healthcare%20AI%20and%20Machine%20Learning&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hi%20I'm%20Beomjun&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Researcher%20in%20Healthcare%20AI%20and%20Machine%20Learning&descAlignY=51&descAlign=62)
 
 <p align="center">
   <a href="https://github.com/hbumjj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
   <a href="https://scholar.google.co.kr/citations?user=2tdj6OoAAAAJ&hl=ko"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=Google%20Scholar&logoColor=white"/></a>
   <a href="mailto:pbj7698@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-</p>
-
-<h2 align="center">🚀 About Me</h2>
-
-<p align="center">
-  I'm a dedicated researcher and developer with a passion for AI and Machine Learning. I aim to extract valuable insights from data across diverse industry domains.<br/>
-  My research spans across various fields, focusing on finding meaningful information through data analysis and making decisions based on these insights.
 </p>
 
 <h2 align="center">🛠️ Tech Stack</h2>
